@@ -1,1 +1,3 @@
 By sending post data of `data` and a hex code of `color` (including the #) you can generate a qrcode and return it to your webapplication.
+
+Is a plugin for https://github.com/soldair/node-qrcode/
